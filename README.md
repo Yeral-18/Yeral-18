@@ -4,7 +4,8 @@
   
 
 ### <div align="center">👋 ¡Hola! Mi nombre es Yeral, estoy apasionada con la tecnología y el desarrollo de software con conocimientos en lenguajes de programación como JavaScript. </div>  
-  
+ 
+<br/>
 
 🚀⚡ Actualmente estoy aprendiendo JavaScript y React  
   
